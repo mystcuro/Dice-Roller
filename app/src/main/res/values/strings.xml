@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Roll Dice SAD0.2</string>
+    <string name="button_text">ROLL</string>
+    <string name="roll_logo">Roll Logo</string>
+    <string name="rollimg_1">Roll Image 1</string>
+    <string name="rollimg_2">Roll Image 2</string>
+</resources>
